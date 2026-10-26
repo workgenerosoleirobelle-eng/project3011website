@@ -4,7 +4,7 @@ A responsive Vue 3 website for the Central Philippine University College of Comp
 
 ## Run locally
 
-Requirements: Node.js 22.18 or newer.
+Requirements: Node.js 22.18.x or 24.12+.
 
 ```sh
 npm ci
